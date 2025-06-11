@@ -174,4 +174,4 @@ You’ve now mastered:
 * Real-world tooling used across providers
 
 > 📍Next Step: 
-🧠 *Want more? Follow this repo and explore the full DevOps knowledge base at* **[AIOps Vision](https://github.com/AIOpsVision)**.
+🧠 *Want more? Follow this repo and explore the full DevOps knowledge base at* **[AIOps Vision](https://github.com/AIOps-Vision)**.
