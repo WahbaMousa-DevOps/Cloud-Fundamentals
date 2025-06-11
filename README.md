@@ -1,7 +1,8 @@
-# 📘 Cloud Fundamentals
+## [📘 Cloud Fundamentals](./Cloud%20Fundamentals.md)
+
 Welcome to **Cloud Fundamentals** — a professional knowledge base created by **Wahba Mousa**, Senior DevOps Engineer with 10+ years of enterprise experience. This repository distills the core principles of cloud computing, DevOps, and modern IT infrastructure into structured, real-world concepts.
 
-## 🧠 What You'll Learn
+### 🧠 What You'll Learn
 - 🔄 Difference Between DevOps & Cloud
 - 💸 CAPEX vs OPEX Financial Models
 - 🏢 On-Prem vs Dedicated Cloud Deployments
@@ -13,14 +14,12 @@ Welcome to **Cloud Fundamentals** — a professional knowledge base created by *
 - 🧭 Cloud Service Providers Comparison (AWS, Azure, GCP)
 - 🛠️ Tools: IAM, Monitoring, IaC, Middleware, GPU Usage
 
-## 🌍 Why This Repo?
+### 🌍 Why This Repo?
 This project helps:
 - 🎯 Junior engineers build strong foundations
 - 👨‍💼 DevOps professionals explain concepts during interviews
 - 🏗️ Architects and team leads onboard new team members faster
 - 🧑‍🎓 Students learn real-world cloud & DevOps at production scale
-
----
 
 > _Knowledge is power. Organized knowledge is professional power._ — Principal Wahba 💼
 
